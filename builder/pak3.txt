@@ -1,4 +1,4 @@
---index-url https://download.pytorch.org/whl/xpu
+--index-url https://download.pytorch.org/nightly/whl/xpu
 torch
 torchvision
 torchaudio
